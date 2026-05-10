@@ -10,13 +10,13 @@
 
 | 项目 | 星 | 描述 |
 |------|-----|------|
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76K | 多Agent协作工作空间 |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 44K | 从零构建智能体（中文教程）|
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 35K | AI编程Agent工程技能 |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21K | DeepSeek终端编码Agent |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 15K | 金融AI Agent |
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14K | 全自动AI交易Agent |
-| [decolua/9router](https://github.com/decolua/9router) | 5.5K | 免费AI编程路由器 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 71.8K | 多Agent金融交易框架 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 66.6K | Claude Agent工程技能集 |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 46.9K | Claude多Agent协作平台 |
+| [virattt/dexter](https://github.com/virattt/dexter) | 24.9K | 自主金融深度研究Agent |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 15.2K | 金融AI Agent |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 13.8K | AI全自动短视频引擎 |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 9.2K | 长程Agent增量引擎 |
 
 ---
 
